@@ -1,0 +1,2 @@
+DROP INDEX IF EXISTS idx_test_id;
+DROP TABLE IF EXISTS test;
