@@ -1,7 +1,30 @@
-+
 # edu_ai
 
-A new Flutter project.
+### Project Description: EDU_AI_APP
+
+EDU_AI_APP is an innovative AI-based interview application designed to enhance the learning experience for individuals preparing for programming interviews. Developed using Go and Dart, this app provides a comprehensive platform for users to assess and improve their programming skills through interactive quiz-like interviews.
+
+#### Key Features:
+
+1. **User Authentication:**
+   - Secure user credentials and login functionality to ensure personalized experiences.
+
+2. **Diverse Programming Languages:**
+   - A wide range of programming languages available for users to choose from, catering to varied learning needs and interests.
+
+3. **Quiz-like Interviews:**
+   - Users can take part in simulated interviews with a series of questions tailored to the selected programming language.
+   - The interview questions are designed to mimic real-world scenarios, helping users to prepare effectively.
+
+4. **Detailed Analysis and Feedback:**
+   - After completing the quiz, users receive a detailed analysis of their performance.
+   - The analysis includes strengths, weaknesses, and suggestions for improvement, allowing users to track their progress and focus on areas that need attention.
+
+5. **User-friendly Interface:**
+   - Developed with Dart for the frontend, the app offers a smooth and engaging user experience.
+   - The backend, powered by Go, ensures efficient handling of data and robust performance.
+
+EDU_AI_APP is an essential tool for anyone looking to sharpen their programming skills and gain confidence in their interview readiness. Whether you are a beginner or an experienced programmer, this app provides a structured and insightful way to prepare for technical interviews.
 
 ## Getting Started
 
