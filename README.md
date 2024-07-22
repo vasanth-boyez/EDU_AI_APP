@@ -1,6 +1,4 @@
-# edu_ai
-
-### Project Description: EDU_AI_APP
+# EDU_AI_APP
 
 EDU_AI_APP is an innovative AI-based interview application designed to enhance the learning experience for individuals preparing for programming interviews. Developed using Go and Dart, this app provides a comprehensive platform for users to assess and improve their programming skills through interactive quiz-like interviews.
 
